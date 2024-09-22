@@ -15,10 +15,10 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 - [Node.js](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/) 
-- [composer]
--[PHP]
--[Laravel]
--[xamppserver]
+- [composer] (https://getcomposer.org/)
+- [PHP] (https://www.php.net/)
+- [Laravel] (https://laravel.com/docs/11.x/installation)
+- [xamppserver] (https://apachefriends.org/)
 ### Installation
 
 Clone the repository:
